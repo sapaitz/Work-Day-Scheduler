@@ -8,3 +8,8 @@ needs to keep track of their schedule. It is color-coded as well to make it even
 # Technologies used
 
 HTML, CSS, Javascript, Moment.js
+
+
+# Deployment
+
+https://sapaitz.github.io/Work-Day-Scheduler/
